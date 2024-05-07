@@ -1,5 +1,5 @@
 #include <IRremote.h> 
-
+//IRremote 2.6.0 sürümü kullanıldı
 int kumandapin = 12;
 
 int i;
